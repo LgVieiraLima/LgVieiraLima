@@ -25,4 +25,6 @@ Outras:
 <img src= "https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white" /> <img src= "https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" />
 
 
+![](https://komarev.com/ghpvc/?username=your-github-LgVieiraLima)
+
 Obrigado pela visita!
