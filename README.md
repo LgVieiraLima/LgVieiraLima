@@ -7,7 +7,7 @@
 
 🎓 Cursando o 5º Semestre de Engenharia de Produção.
 
-📚 Estudando Desenvolvimento Full Stack Web, na plataforma ProgramadorBR.
+📚 Estudando Desenvolvimento Web Full Stack, na plataforma ProgramadorBR.
 
 ## Tecnologias 💻
 
