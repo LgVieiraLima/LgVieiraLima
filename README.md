@@ -23,6 +23,11 @@ Outras:
 
 <img src= "https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white" /> <img src= "https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" />
 
+ <div>
+  <a href="https://github.com/LgVieiraLima">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LgVieiraLima&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LgVieiraLima&layout=compact&langs_count=7&theme=dark"/>
+</div>
 
 ![](https://komarev.com/ghpvc/?username=your-github-LgVieiraLima)
 
