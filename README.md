@@ -1,11 +1,13 @@
-# Oi, eu sou o Luiz Gustavo! 👋
+# Olá! 👋
 
 
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/luiz-gustavo-vieira-de-lima-874147143/)	[<img src= "https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />](https://api.whatsapp.com/send?phone=5511999686537)
 
 
-🎓 Cursando o 5º Semestre de Engenharia de Produção.
+🎓 Cursando o 1º Semestre de Engenharia de Software.
+
+🎓 Cursei até o 4º Semestre de Engenharia de Produção (Atualmente trancado).
 
 📚 Estudando Desenvolvimento Web Full Stack, na plataforma ProgramadorBR.
 
