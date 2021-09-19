@@ -28,8 +28,9 @@ Outras:
  <div>
   <a href="https://github.com/LgVieiraLima">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LgVieiraLima&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LgVieiraLima&layout=compact&langs_count=7&theme=dark"/>
- 
+  <br> 
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LgVieiraLima&langs_count=8"/>
+
 </div>
 
 ![](https://komarev.com/ghpvc/?username=your-github-LgVieiraLima)
